@@ -1,0 +1,125 @@
+Here's an extraction of the data from the provided image:
+
+**Applicant's Particulars:**
+
+* `Name`: JEHAN GERARD BASTIANS
+* `Foreign Identification No.`: SL001
+* `Foreign Passport No.`: N8315542
+* `Singapore NRIC/CPF Account No.`: 741172291
+* `Date of Birth`: 26/04/74
+* `Contact No.`: 0450892604
+* `Email`: jbastians@dbla.com.au
+* `Overseas Address`: 261 RIVERGUM WAY, ROUSE HILL, 2155 NSW AUSTRALIA
+
+**Bank Details:**
+
+* `Bank's Name`: MAY BANK
+* `Bank Account No.`: 015001281-18
+* `Recipient's Account Name`: JGL BASTIANS
+* `Intermediary Bank's SWIFT Code`: LKL2HB
+
+
+**Note:**  Several fields, such as the Recipient Bank's Address and Recipient Bank's SWIFT Code, are left blank on the form.  There is also a signature, but that cannot be extracted as text.
+Here's an extraction of the data from the provided form image in key-value pairs:
+
+**A - Particulars of Patient**
+
+* Name: JEHAN BASTIANS
+* NRIC/CPF: 0501334101
+* Date of Birth: 26/4/1970
+* FIN/Passport No.: N 8615542
+* Singapore Citizen (SC): false
+* Permanent Resident (PR): false
+* Foreigner: true
+
+
+**B - Particulars of the Additional MediSave Payer**
+
+* Name: NEIDRA WILLIANS
+* Date of Birth: 01/08/1971
+* NRIC/CPF Account No.: 18500128101
+* Spouse: false
+* Child: false
+* Parent: false
+* Sibling: false
+
+
+**C - Purpose**
+
+* (For the Patient)
+    * Check my healthcare financing coverage: true
+    * Withdraw from my MediSave: false
+    * Claim from my Health Insurance Policy: true
+    * for hospitalisation/day surgery/treatment: true
+    * for all outpatient treatments: true
+        * Renal dialysis: true
+        * Chemotherapy: true
+        * Outpatient scans: true
+        * Other schemes: false
+        * Flexi-MediSave: true
+        * Cancer scans: true
+        * Anti-Retroviral Drugs: true
+        * Approved chronic diseases, vaccinations, screenings: true
+* (For the Additional MediSave Payer)
+    * Check my healthcare financing coverage: false
+    * Withdraw from my MediSave: true
+
+**D - Authorisation on Behalf of Patient / Additional MediSave Payer**
+
+* Name: JEHAN BASTIANS
+* Date of Birth: 26/09/74
+* NRIC/FIN/Passport Number: 741172291
+* I am signing this form on behalf of: the Patient
+* because:
+    * I am the parent/legal guardian of the Patient who is under 21 years of age: true
+    * he/she lacks capacity, and I am his/her: false
+        * donee/deputy: false
+        * family member: false
+    * he/she is deceased, and I am his/her: false
+        * donee/deputy: false
+        * family member: false
+    * I am the parent/legal guardian of the Additional MediSave Payer who is under 21 years of age: false
+
+
+**Doctor's Certification**
+
+* Name of Doctor: DINESH WITEYSINGHE
+* Doctor's Signature: (signature image)
+* Date of Signature: 29/11/2024
+
+**Missing/Unclear Data:**
+
+* Name of the Medical Institution:  (This field is left blank on the form.)
+* Dates in section C - Purpose: Several date fields are left blank in this section.
+
+
+Please note that some data is partially illegible or unclear in the provided image, leading to some uncertainties in the extracted values.
+Here's an extraction of the provided form data in key-value pairs:
+
+**Patient Information:**
+
+* `Name`: JEHAN BASTIANS
+* `NRIC/CPF Account No.`: 741172291
+* `Medical Condition`: HIGH BLOOD PRESSURE
+
+**Diagnosis Information:**
+
+* `Date of Diagnosis`: 15/10/24
+
+**Doctor's Assessment (Question 1):**
+
+* `Reduced Life Expectancy`: true
+* `One Year or Less`: true
+* `Date`: 15/06/24
+
+
+**Doctor's Assessment (Question 2):**
+
+* `Permanently Unfit for Work`: true
+
+**Other Information:**
+
+* `Date`: 29/11/24
+
+
+**Note:**  Some fields, like the doctor's signature and stamp, cannot be digitally extracted.  Also, there are blank fields for additional activities and the doctor's full name/information which haven't been filled in.

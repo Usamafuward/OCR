@@ -1,0 +1,13 @@
+openai
+pillow
+pytesseract
+fitz
+torch
+transformers
+pymupdf
+opencv-python
+numpy
+python-dotenv
+requests
+paddlepaddle
+paddleocr
